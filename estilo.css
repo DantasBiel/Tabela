@@ -1,0 +1,22 @@
+    .Barba{
+        border: solid 1px black;
+        width: 180px;
+
+    }
+    
+    .Cabelo{
+         border: solid 1px black;
+        width: 180px;
+        
+    }
+
+    .Sombrancelha{
+        border: solid 1px black;
+        width: 180px;
+        
+    }
+
+.lista{
+    display: flex;
+    justify-content: space-around;
+}
